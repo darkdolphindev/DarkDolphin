@@ -1,4 +1,4 @@
-{
+  {
    "app_redirectOtherAppStatus":"0",
    "app_newPackageName":"https://play.google.com/store/apps/details?id=com.darkdolphin.dnschanger",
    "app_AppOpenAdStatus":"0",
@@ -14,10 +14,10 @@
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
    "fbad_showStatus":"1",
-   "fb_banner":"63f3483ed9434ef8b99a376e5151c1ba",
-   "fb_inter1":"15c11d9bcb8c41f4b9fa22c7e957dbbe",
-   "fb_inter2":"15c11d9bcb8c41f4b9fa22c7e957dbbe",
-   "fb_inter3":"15c11d9bcb8c41f4b9fa22c7e957dbbe",
-   "fb_native":"1569cf34f0544f4890eda65c99880dbd",
-   "fb_nativebanner":"63f3483ed9434ef8b99a376e5151c1ba"
+   "fb_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+   "fb_inter1":"24534e1901884e398f1253216226017e",
+   "fb_inter2":"24534e1901884e398f1253216226017e",
+   "fb_inter3":"24534e1901884e398f1253216226017e",
+   "fb_native":"11a17b188668469fb0412708c3d16813",
+   "fb_nativebanner":"252412d5e9364a05ab77d9396346d73d"
 }
