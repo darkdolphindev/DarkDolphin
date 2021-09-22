@@ -1,0 +1,23 @@
+{
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=com.darkdolphin.dnschanger",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://282.win.predchamp.com",
+   "more_app":"https://raw.githubusercontent.com/darkdolphindev/DarkDolphin/main/MainAds/moreapps.json",
+   "admob_showAdStatus":"0",
+   "AppID":"ca-app-pub-5517092987757413~8240781391",
+   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
+   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
+   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
+   "fbad_showStatus":"1",
+   "fb_banner":"34be2afbead244e7b96712ebff6805af",
+   "fb_inter1":"3cf419cdb8e2492288c9d94001668924",
+   "fb_inter2":"3cf419cdb8e2492288c9d94001668924",
+   "fb_inter3":"3cf419cdb8e2492288c9d94001668924",
+   "fb_native":"d3434e3e5b4b450fad23a13eabf7b672",
+   "fb_nativebanner":"34be2afbead244e7b96712ebff6805af"
+}
