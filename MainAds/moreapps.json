@@ -38,9 +38,9 @@
       {
          "des":"4.8",
          "banner":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYa307GVKuO5xC71DN15MbgrzLx9KA07l2bA&usqp=CAU",
-         "image_path":"https://play-lh.googleusercontent.com/HpjJfd6lXDhuQBEVJLGRMJNVPhQKwY6MuxQXom6N8aT7MTWEuWIHpDtmF-5IQZno_r-6=s180-rw",
+         "image_path":"https://play-lh.googleusercontent.com/tqDus8QR7nJbpd4wbZOOhULj2ISelk1DoT8iMAZlDtMkZKYwiQKbJ_dScwAHQvd6Oi0=s180-rw",
          "ads_name":"Nico App Guide",
-         "ads_Link":"https://play.google.com/store/apps/details?id=com.darkdolphin.nicooapp"
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.freenicoodimond.newnicooapp"
       },
       {
          "des":"4.5",
@@ -48,6 +48,13 @@
          "image_path":"https://play-lh.googleusercontent.com/ml2wtg_9fATXfYItjKk3nykW4GbOLaviHyXqvVXFtVQjvooyu2LHkUqfOYTUe7Jfmw=s180-rw",
          "ads_name":"Live TV Free Online Guide",
          "ads_Link":"https://play.google.com/store/apps/details?id=com.darkdolphin.livetvonlineguide"
+      },
+      {
+         "des":"4.5",
+         "banner":"https://s3b.cashify.in/gpro/uploads/2021/01/04155404/PikaShow.jpg",
+         "image_path":"https://play-lh.googleusercontent.com/m2HYxz17VfvvAfI5YZr7TtRer2_NOaszqnP6458OS3K1pZZlGuGspzVQi4TUiqC6xpE=s180-rw",
+         "ads_name":"PikaShow - Free Live Cricket TV Guide",
+         "ads_Link":"https://play.google.com/store/apps/details?id=com.pikashow.pikashowguide"
       }
    ]
 }
