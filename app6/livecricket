@@ -1,0 +1,22 @@
+{
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=com.darkdolphin.dnschanger",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://73.go.qureka.com",
+   "more_app":"https://raw.githubusercontent.com/darkdolphindev/DarkDolphin/main/MainAds/moreapps.json",
+   "admob_showAdStatus":"0",
+   "AppID":"ca-app-pub-5517092987757413~8240781391",
+   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
+   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
+   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
+   "mopub_showStatus":"1",
+   "mopub_banner":"4997865c3a1f4d92a576cf81d5d8fe48",
+   "mopub_inter1":"4af4b586ca60484ca45e02916fc91681",
+   "mopub_inter2":"4af4b586ca60484ca45e02916fc91681",
+   "mopub_inter3":"4af4b586ca60484ca45e02916fc91681",
+   "mopub_native":"e3559d22cb9a4624946885e020946167"
+}
