@@ -5,7 +5,7 @@
    "app_dialogBeforeAdShow":"0",
    "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
    "app_howShowAd":"0",
-   "qureka":"https://73.go.qureka.com",
+   "qureka":"https://73.go.predchamp.com",
    "more_app":"https://raw.githubusercontent.com/darkdolphindev/DarkDolphin/main/MainAds/moreapps.json",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-2456435666089520~4660534541",
@@ -14,11 +14,11 @@
    "Admob_Native":" ca-app-pub-2456435666089520/3507070012",
    "AppOpen":" ca-app-pub-2456435666089520/7909349459",
    "topon_showStatus":"1",
-   "topon_appid":"a62428f656f5da",
+   "topon_appid":"a624456c3f2c73",
    "topon_appkey":"bf6ba488fdd473067018f86bcf428ba3",
-   "topon_banner":"b62428fc0ca9aa",
-   "topon_inter1":"b62428f7e32609",
-   "topon_inter2":"b62428f7e32609",
-   "topon_inter3":"b62428f7e32609",
-   "topon_native":"b62428fae3f5f6"
+   "topon_banner":"b624456e77ae5c",
+   "topon_inter1":"b624456e743476",
+   "topon_inter2":"b624456e743476",
+   "topon_inter3":"b624456e743476",
+   "topon_native":"b624456e84eebd"
 }
